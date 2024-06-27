@@ -1,12 +1,12 @@
 # LoanPredictApp
-<<<<<<< HEAD
-=======
 
 ![Python Version](https://img.shields.io/badge/python-3.11.7%2B-blue)
 ![Streamlit](https://img.shields.io/badge/built%20with-Streamlit-orange)
 ![Machine Learning](https://img.shields.io/badge/machine%20learning-Loan%20Approval%20Prediction-green)
 
 Welcome to **LoanPredictApp**! This application predicts loan approval based on various client characteristics using a machine learning model. It is built with Python, Streamlit, and several popular data science libraries.
+
+Here's the **link** about this application : [https://loanprediction01.streamlit.app/](https://loanprediction01.streamlit.app/)
 
 ## Table of Contents
 - [Introduction](#introduction)
